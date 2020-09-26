@@ -1,4 +1,1 @@
-Changelog MyMCredit 2.3
 
-Kleinere Bugfixes
-Scroll-Funktion bei Überweisung
