@@ -1,6 +1,6 @@
 [
 	{
-		"monat" : "september"
+		"monat" : "September",
 		"link" : "https://mcreditat.blogspot.com"
 	}
 ]
